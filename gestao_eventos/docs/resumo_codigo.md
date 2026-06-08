@@ -31,7 +31,7 @@ Interface estilizada com a biblioteca FlatLaf (visual limpo):
 - **InscricoesPanel**: Registro de matrículas, alteração de status e acionamento para geração do certificado.
 - **CertificadosPanel**: Consulta todos os certificados emitidos e exibe um diploma estilizado.
 
-## 🛠️ Como Compilar e Executar
+##  Como Compilar e Executar
 
 Abra o terminal de comandos (Prompt de Comando ou PowerShell) na pasta raiz do projeto (`gestao_eventos`) e execute:
 
