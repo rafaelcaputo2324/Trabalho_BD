@@ -34,6 +34,7 @@ Interface estilizada com a biblioteca FlatLaf (visual limpo):
 ##  Como Compilar e Executar
 
 Abra o terminal de comandos (Prompt de Comando ou PowerShell) na pasta raiz do projeto (`gestao_eventos`) e execute:
+(retire o arquivo "gestão_eventos" de dentro da pasta "Trabalho_BD" se não não vai funcionar).
 
 ### 1. Criar pasta para os arquivos binários compilados
 ```cmd
