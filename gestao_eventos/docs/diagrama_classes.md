@@ -1,6 +1,6 @@
 # Diagrama de Classes - EventFlow
 
-Este documento descreve a estrutura de classes em formato UML utilizando sintaxe Mermaid.
+Este documento descreve a estrutura de classes
 
 ```mermaid
 classDiagram
