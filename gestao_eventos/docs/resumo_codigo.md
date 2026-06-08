@@ -1,6 +1,6 @@
 # Resumo do Código - EventFlow
 
-Este documento descreve a estrutura de classes do projeto **EventFlow (Sistema de Gestão de Eventos)** de forma técnica e resumida para auxiliar o entendimento do sistema e a criação do roteiro de apresentação.
+Um resumo do projeto para ajudar quem for fazer o video
 
 ## Camadas do Sistema (gestaoeventos)
 
